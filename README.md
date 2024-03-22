@@ -17,4 +17,11 @@
     <img src="images/js_execution_context_1.jpg" alt="Java Execution Context Explanation Image">
     <img src="images/js_execution_context_2.jpg" alt="Java Execution Context Explanation Image">
   </li>
+  <li>
+    <ol>
+      <li> Truthy and Falsy Values </li>
+      <li> Nullish Coalescing Operator</li>
+    </ol>
+    <img src="images/nullish_coalescing_operator.jpg" alt="Nullish Coalescing Operator">
+  </li>
 </ul>
