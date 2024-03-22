@@ -13,6 +13,7 @@
   <li>Arrow Functions</li>
   <li>IIFE (Immediately Invoked Function Expression)</li>
   <li>
+    Javascript Exection Context
     <img src="images/js_execution_context_1.jpg" alt="Java Execution Context Explanation Image">
     <img src="images/js_execution_context_2.jpg" alt="Java Execution Context Explanation Image">
   </li>
