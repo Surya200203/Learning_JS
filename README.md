@@ -26,4 +26,6 @@
   </li>
   <li>High Order Array Loops</li>
   <li>Using Loops with Objects</li>
+  <li>Filter Method</li>
+  <li>Reduce Method</li>
 </ul>
