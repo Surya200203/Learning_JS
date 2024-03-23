@@ -25,4 +25,5 @@
     <img src="images/nullish_coalescing_operator.jpg" alt="Nullish Coalescing Operator">
   </li>
   <li>High Order Array Loops</li>
+  <li>Using Loops with Objects</li>
 </ul>
