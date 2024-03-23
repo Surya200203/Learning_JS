@@ -24,4 +24,5 @@
     </ol>
     <img src="images/nullish_coalescing_operator.jpg" alt="Nullish Coalescing Operator">
   </li>
+  <li>High Order Array Loops</li>
 </ul>
